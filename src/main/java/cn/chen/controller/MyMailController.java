@@ -28,7 +28,7 @@ import java.util.Map;
  * 控制与Mail相关的请求
  * @ClassName MyMailController
  * @author Liu Yang
- * @version 1.0
+ * @version  1.0
  */
 
 public class MyMailController
