@@ -39,7 +39,7 @@ public class ReceiveMailServiceImp implements ReceiveMailService
         // 创建Session实例对象
         Session session = Session.getInstance(props);
         Store store = session.getStore("pop3");
-        store.connect("1276316543@qq.com", "lbgrvrwbzeehihjb");
+        store.connect("1276316543@qq.com", "lbgrvrwbzeehihjb1");
 
         // 获得收件箱
         Folder folder = store.getFolder("INBOX");
